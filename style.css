@@ -10,3 +10,8 @@
   background-position: bottom;
   background-size: cover;
 }
+.main-visual-text {
+  color: grey;
+  padding: 20px;
+  font-size: 30px;
+}
